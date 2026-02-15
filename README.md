@@ -11,3 +11,9 @@ This project focuses on analyzing and modernizing a VXML-based hospital IVR syst
 - Gap identification
 - Functional requirements documentation
 - Technical requirements documentation
+- 
+## Repository Contents
+
+- Milestone 1 Documentation
+- MIT License
+- Project Overview (README)
